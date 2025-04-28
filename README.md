@@ -8,3 +8,4 @@ https://stock.hostmonit.com/CloudFlareYes
 
 ###https://zzzyxhkfc.pages.dev/a4235be5-c15d-4aed-94a8-1e11acd1cf0b###
 
+https://www.itdog.cn/ping/zzzyxhkfc.pages.dev
